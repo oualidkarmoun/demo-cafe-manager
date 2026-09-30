@@ -8,7 +8,8 @@ A polished demo landing page for **Café Manager**, a management system designed
 
 The goal is to centralize daily operations, improve traceability, simplify stock and cash workflows, and give the manager a clear view of activity from one system.
 
-[![Full Project](https://img.shields.io/badge/Full_Project-cafe--realtime--app-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oualidkarmoun/cafe-realtime-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-cafe--manager--beta.vercel.app-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://cafe-manager-beta.vercel.app)
+[![Full Project](https://img.shields.io/badge/Full_Project-cafe--realtime--app-0F766E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oualidkarmoun/cafe-realtime-app)
 [![GitHub](https://img.shields.io/badge/GitHub-oualidkarmoun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oualidkarmoun)
 
 </div>
@@ -18,10 +19,8 @@ The goal is to centralize daily operations, improve traceability, simplify stock
 ## ✨ Preview
 
 <p align="center">
-  <img src="assets/cafe-manager-demo.png" width="100%" alt="Café Manager landing page preview" />
+  <img src="demo.png" width="100%" alt="Café Manager landing page preview" />
 </p>
-
-> Add the homepage screenshot as `assets/cafe-manager-demo.png` to display it here.
 
 ---
 
@@ -88,6 +87,8 @@ into one centralized system.
 ## 🖥️ About This Repository
 
 This repository contains the **public demo / presentation website** for Café Manager.
+
+🌐 **Live demo:** https://cafe-manager-beta.vercel.app
 
 It is intentionally lightweight and focuses on presenting the product, its roles and its business value.
 
